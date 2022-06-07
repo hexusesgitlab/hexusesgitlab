@@ -2,7 +2,7 @@
 
 ### stuff i use
 - **os**: Arch Linux and a Windows install i don't ever actually use
-- **wm/de**: bspwm
+- **wm/de**: xfce
 - **shell**: zsh
 - **editor**: nvim
 - **browser**: firefox
